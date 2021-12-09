@@ -19,7 +19,7 @@ namespace DigikalaToWooCommerce.Core.Service
     {
 
         private readonly RestAPI _restApi;
-        private SettingViewModel _setting;
+        private SettingViewModel _setting { get; }
         private List<ProductCategory> _categories;
         public DigiKala(SettingViewModel setting)
         {
@@ -281,6 +281,14 @@ namespace DigikalaToWooCommerce.Core.Service
                         model.stock_status = "outofstock";
                     }
 
+                }
+                else
+                {
+                    var variations = data.Where(p => p.marketplace_seller.id == _setting.SellerId);
+                    foreach (var item in variations)
+                    {
+                        
+                    }
                 }
 
                 ulong? parentId = null;
