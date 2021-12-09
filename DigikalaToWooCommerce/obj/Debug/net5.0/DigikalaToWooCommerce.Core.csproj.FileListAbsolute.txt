@@ -9,3 +9,4 @@ D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce
 D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.dll
 D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\ref\DigikalaToWooCommerce.Core.dll
 D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.pdb
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.csproj.AssemblyReference.cache
