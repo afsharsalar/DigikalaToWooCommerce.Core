@@ -1,0 +1,11 @@
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.AssemblyInfoInputs.cache
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.AssemblyInfo.cs
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.csproj.CoreCompileInputs.cache
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\bin\Debug\net5.0\DigikalaToWooCommerce.Core.deps.json
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\bin\Debug\net5.0\DigikalaToWooCommerce.Core.dll
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\bin\Debug\net5.0\ref\DigikalaToWooCommerce.Core.dll
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\bin\Debug\net5.0\DigikalaToWooCommerce.Core.pdb
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.dll
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\ref\DigikalaToWooCommerce.Core.dll
+D:\Programming\DigikalaToWoocommerce\DigikalaToWooCommerce\DigikalaToWooCommerce\obj\Debug\net5.0\DigikalaToWooCommerce.Core.pdb

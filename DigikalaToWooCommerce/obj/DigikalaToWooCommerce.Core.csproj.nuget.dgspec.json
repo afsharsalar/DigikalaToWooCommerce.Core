@@ -43,9 +43,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "HtmlAgilityPack": {
+            "HtmlAgilityPack.NetCore": {
               "target": "Package",
-              "version": "[1.11.39, )"
+              "version": "[1.5.0.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
